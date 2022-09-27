@@ -1,0 +1,35 @@
+{
+    "trailing-spaces.trimOnSave": true,
+    "editor.tabSize": 2,
+    "editor.rulers": [
+        120
+    ],
+    "ruby.rubocop.executePath": "/home/andy/.rvm/gems/ruby-2.5.8/wrappers/",
+    "ruby.rubocop.configFilePath": "/home/andy/work/projects/legacy-config/ruby.yml",
+    "files.insertFinalNewline": true,
+    "eslint.format.enable": true,
+    "eslint.run": "onSave",
+    "rust-client.updateOnStartup": false,
+    "apklab.apkSignerPath": "/home/andy/.apklab/uber-apk-signer-1.2.1.jar",
+    "apklab.jadxDirPath": "/home/andy/.apklab/jadx-1.2.0",
+    "apklab.apktoolPath": "/home/andy/.apklab/apktool_2.6.0.jar",
+    "workbench.colorTheme": "Monokai",
+    "editor.unicodeHighlight.allowedCharacters": {
+        "‪": true
+    },
+    "gremlins.showInProblemPane": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "solargraph.bundlerPath": "/home/andy/.rvm/gems/ruby-2.5.8/wrappers/bundle",
+    "solargraph.commandPath": "/home/andy/.rvm/gems/ruby-2.5.8/wrappers/solargraph",
+    "editor.wordWrap": "on",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "[ruby]": {
+        "editor.formatOnSave": false
+    },
+    "[gemfile]": {
+        "editor.formatOnSave": false
+    }
+}
